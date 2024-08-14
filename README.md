@@ -20,5 +20,5 @@ a sway-dotfiles repository. it has my config files
 
 - run the install.sh script using ```./install.sh```
 - you can run this script in user u dont need to being root
-I do not prefer the installition script because i dont tried the script it can be break ur sway
-Just copy the config files in ur ~/.config for healthy installition :smiley:
+- I do not prefer the installition script because i dont tried the script it can be break ur sway
+- Just copy the config files in ur ~/.config for healthy installition :smiley:
