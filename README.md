@@ -12,5 +12,5 @@ a sway-dotfiles repository. it has my config files
 
 # installition
 
-install dependencies
-copy the config files on your ~/.config
+- install dependencies
+- copy the config files on your ~/.config
