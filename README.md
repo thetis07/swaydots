@@ -15,6 +15,7 @@ a sway-dotfiles repository. it has my config files
 - waybar
 - kitty
 - rofi
+- neofetch (optional)
 
 # installition
 
